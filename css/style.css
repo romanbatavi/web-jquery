@@ -1,0 +1,19 @@
+html, body{
+    background-color: #ffe400;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+    height: 100%;
+    font-family: "Open sans";
+}
+
+#intro #text{
+    font-size: 70px;
+    font-weight: 800;
+    width: 10.5em;
+    height: 1.5em;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
